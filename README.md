@@ -1,0 +1,2 @@
+# Computer Vision Assignment 
+This project aims to evaluate the performance of Fast Non - Local Means denoising method in Gaussian noise, Salt and Pepper noise and Speckle noise. The evaluation is conducted based on PSNR, SSIM metrics and the time processing.
